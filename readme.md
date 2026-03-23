@@ -1,1 +1,1 @@
-this is math library
+math function workin on it
